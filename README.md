@@ -3,7 +3,7 @@
 Código de replicación de la tesis de licenciatura en Ingeniería Económica y Financiera.
 
 **Autor:** Luis Samuel Barria Gutiérrez
-**Director:** Dr. Luis Alberto Quezada
+**Director:** Dr. Tomás Gómez Rodríguez
 **Institución:** Universidad Autónoma del Estado de Hidalgo — Escuela Superior de Apan
 
 ---
